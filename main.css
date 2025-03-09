@@ -1,0 +1,50 @@
+body{
+    background-color: #85657a;
+    background-repeat: no-repeat;
+}
+.card-title{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+.card{
+    background: linear-gradient(to bottom, #C599B6, #E6B2BA);
+    max-width: 500px;
+    transition: 1s;
+}
+
+#city-input{
+    color: #000000;
+    background-color: #C599B6 !important;
+    border: none;
+}
+
+#city-input:-webkit-autofill {
+    background-color: #C599B6 !important;
+    box-shadow: 0 0 0px 1000px #C599B6 inset; /* forc colod*/
+}
+
+.btn{
+    background-color: #85657a;
+    border: none;
+    color: aliceblue;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    background-color: #FAD0C4;
+    padding: 15px;
+}
+
+#weather-info{
+    display: block;
+}
+
+#date{
+    color: black;
+}
+
+#description{
+    font-size: smaller;
+}
+
