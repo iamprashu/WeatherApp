@@ -2,12 +2,14 @@
 
 A simple **Weather App** that provides real-time weather updates using the **OpenWeather API**. Built with **JavaScript, Tailwind CSS, and asynchronous API handling**, this app allows users to fetch weather details of any location instantly.
 
+Hello Prashant Joshi.
+
 ## 🚀 Features
 ✅ **Real-time weather data** powered by the [OpenWeather API](https://openweathermap.org/api)  
 ✅ **Search for any city** and get instant weather details  
 ✅ **Dynamic background changes** based on weather conditions  
 ✅ **Responsive UI** with **Tailwind CSS** for a clean and modern look  
-✅ **Error handling** for invalid locations and API failures  
+
 
 ## 📸 Screenshots
 ![Weather App Screenshot](Screenshot.png)
